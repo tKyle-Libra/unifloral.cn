@@ -1,6 +1,7 @@
 node_modules
 dist
 .DS_Store
+.vite
 
 # 本地配置文件（包含敏感信息）
 github-token.conf
